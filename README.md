@@ -1,3 +1,5 @@
+(Project made in early 2024)
+
 # 2048
 
 Une implémentation du jeu 2048 en C++.
