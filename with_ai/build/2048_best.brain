@@ -1,0 +1,1607 @@
+m_nbInput: 16
+m_nbOutput: 4
+m_neurons_size: 40
+m_connections_size: 135
+input id: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 
+output id: 16 17 18 19 
+Neuron: 
+neuron_id: 335
+type: 2
+overwrited_connection_id: 67
+numer_of_time_connection_overwrited: 0
+in_connections_id: 2264 
+out_connections_id: 2265 
+value: 0.637813
+bias: 0.00849324
+has_value: 1
+has_asked: 0
+pos: 0, 0
+Neuron: 
+neuron_id: 21
+type: 2
+overwrited_connection_id: 46
+numer_of_time_connection_overwrited: 0
+in_connections_id: 66 
+out_connections_id: 2264 67 
+value: 0.537505
+bias: 0.150303
+has_value: 1
+has_asked: 0
+pos: 0, 0
+Neuron: 
+neuron_id: 2
+type: 0
+overwrited_connection_id: -1
+numer_of_time_connection_overwrited: -1
+in_connections_id: 
+out_connections_id: 50 34 18 1611 1978 1505 2 
+value: 2
+bias: -0.437986
+has_value: 1
+has_asked: 0
+pos: 0, 0
+Neuron: 
+neuron_id: 11
+type: 0
+overwrited_connection_id: -1
+numer_of_time_connection_overwrited: -1
+in_connections_id: 
+out_connections_id: 59 2115 1100 43 27 11 301 
+value: 2
+bias: -0.541571
+has_value: 1
+has_asked: 0
+pos: 0, 0
+Neuron: 
+neuron_id: 95
+type: 2
+overwrited_connection_id: 62
+numer_of_time_connection_overwrited: 2
+in_connections_id: 2027 313 
+out_connections_id: 314 
+value: 0.407705
+bias: -0.248679
+has_value: 1
+has_asked: 0
+pos: 0, 0
+Neuron: 
+neuron_id: 111
+type: 2
+overwrited_connection_id: 28
+numer_of_time_connection_overwrited: 1
+in_connections_id: 459 1487 1218 
+out_connections_id: 2027 460 
+value: 0.368134
+bias: 0.467342
+has_value: 1
+has_asked: 0
+pos: 0, 0
+Neuron: 
+neuron_id: 13
+type: 0
+overwrited_connection_id: -1
+numer_of_time_connection_overwrited: -1
+in_connections_id: 
+out_connections_id: 29 440 45 13 61 
+value: 0
+bias: -0.0125714
+has_value: 1
+has_asked: 0
+pos: 0, 0
+Neuron: 
+neuron_id: 18
+type: 1
+overwrited_connection_id: -1
+numer_of_time_connection_overwrited: -1
+in_connections_id: 37 39 2429 35 2419 43 38 34 36 163 45 33 541 32 42 44 2265 41 47 46 67 40 
+out_connections_id: 
+value: 7.30049e-08
+bias: -0.287301
+has_value: 1
+has_asked: 0
+pos: 0, 0
+Neuron: 
+neuron_id: 123
+type: 2
+overwrited_connection_id: 444
+numer_of_time_connection_overwrited: 0
+in_connections_id: 871 527 818 
+out_connections_id: 844 805 528 1083 
+value: 0.387692
+bias: 0.113804
+has_value: 1
+has_asked: 0
+pos: 0, 0
+Neuron: 
+neuron_id: 5
+type: 0
+overwrited_connection_id: -1
+numer_of_time_connection_overwrited: -1
+in_connections_id: 
+out_connections_id: 37 149 5 53 21 
+value: 1
+bias: -0.137797
+has_value: 1
+has_asked: 0
+pos: 0, 0
+Neuron: 
+neuron_id: 16
+type: 1
+overwrited_connection_id: -1
+numer_of_time_connection_overwrited: -1
+in_connections_id: 1873 9 5 6 12 981 150 0 127 15 805 13 309 11 8 7 1084 10 14 2 3 1 4 
+out_connections_id: 
+value: 0.00898087
+bias: 0.0521441
+has_value: 1
+has_asked: 0
+pos: 0, 0
+Neuron: 
+neuron_id: 9
+type: 0
+overwrited_connection_id: -1
+numer_of_time_connection_overwrited: -1
+in_connections_id: 
+out_connections_id: 9 25 57 41 
+value: 6
+bias: 0.974229
+has_value: 1
+has_asked: 0
+pos: 0, 0
+Neuron: 
+neuron_id: 87
+type: 2
+overwrited_connection_id: 63
+numer_of_time_connection_overwrited: 0
+in_connections_id: 845 464 444 440 447 2275 528 260 
+out_connections_id: 1516 1636 261 
+value: 0.999975
+bias: 0.396223
+has_value: 1
+has_asked: 0
+pos: 0, 0
+Neuron: 
+neuron_id: 0
+type: 0
+overwrited_connection_id: -1
+numer_of_time_connection_overwrited: -1
+in_connections_id: 
+out_connections_id: 16 0 48 32 818 
+value: 1
+bias: -0.0716874
+has_value: 1
+has_asked: 0
+pos: 0, 0
+Neuron: 
+neuron_id: 17
+type: 1
+overwrited_connection_id: -1
+numer_of_time_connection_overwrited: -1
+in_connections_id: 1660 25 22 16 29 30 24 23 28 26 19 27 18 31 460 17 20 21 
+out_connections_id: 
+value: 9.08854e-08
+bias: -0.594306
+has_value: 1
+has_asked: 0
+pos: 0, 0
+Neuron: 
+neuron_id: 160
+type: 2
+overwrited_connection_id: 528
+numer_of_time_connection_overwrited: 0
+in_connections_id: 844 
+out_connections_id: 845 981 
+value: 0.435363
+bias: -0.798176
+has_value: 1
+has_asked: 0
+pos: 0, 0
+Neuron: 
+neuron_id: 15
+type: 0
+overwrited_connection_id: -1
+numer_of_time_connection_overwrited: -1
+in_connections_id: 
+out_connections_id: 63 15 31 47 260 
+value: 0
+bias: -0.543492
+has_value: 1
+has_asked: 0
+pos: 0, 0
+Neuron: 
+neuron_id: 14
+type: 0
+overwrited_connection_id: -1
+numer_of_time_connection_overwrited: -1
+in_connections_id: 
+out_connections_id: 294 406 30 66 313 46 14 62 
+value: 0
+bias: 0.106894
+has_value: 1
+has_asked: 0
+pos: 0, 0
+Neuron: 
+neuron_id: 10
+type: 0
+overwrited_connection_id: -1
+numer_of_time_connection_overwrited: -1
+in_connections_id: 
+out_connections_id: 26 42 58 10 
+value: 4
+bias: -0.0372331
+has_value: 1
+has_asked: 0
+pos: 0, 0
+Neuron: 
+neuron_id: 246
+type: 2
+overwrited_connection_id: 1505
+numer_of_time_connection_overwrited: 0
+in_connections_id: 1979 1611 
+out_connections_id: 1612 1702 
+value: 0.500229
+bias: -0.22042
+has_value: 1
+has_asked: 0
+pos: 0, 0
+Neuron: 
+neuron_id: 8
+type: 0
+overwrited_connection_id: -1
+numer_of_time_connection_overwrited: -1
+in_connections_id: 
+out_connections_id: 464 24 330 302 8 56 40 
+value: 1
+bias: 0.418647
+has_value: 1
+has_asked: 0
+pos: 0, 0
+Neuron: 
+neuron_id: 362
+type: 2
+overwrited_connection_id: 2419
+numer_of_time_connection_overwrited: 0
+in_connections_id: 2428 
+out_connections_id: 2429 
+value: 0.718117
+bias: 0
+has_value: 1
+has_asked: 0
+pos: 0, 0
+Neuron: 
+neuron_id: 287
+type: 2
+overwrited_connection_id: 150
+numer_of_time_connection_overwrited: 1
+in_connections_id: 1872 1906 
+out_connections_id: 1873 
+value: 0.667585
+bias: 0.15958
+has_value: 1
+has_asked: 0
+pos: 0, 0
+Neuron: 
+neuron_id: 215
+type: 2
+overwrited_connection_id: 513
+numer_of_time_connection_overwrited: 0
+in_connections_id: 1432 1365 1655 
+out_connections_id: 1660 1366 
+value: 0.556737
+bias: 0.536563
+has_value: 1
+has_asked: 0
+pos: 0, 0
+Neuron: 
+neuron_id: 12
+type: 0
+overwrited_connection_id: -1
+numer_of_time_connection_overwrited: -1
+in_connections_id: 
+out_connections_id: 2247 459 12 28 60 44 1257 126 
+value: 1
+bias: 0.20342
+has_value: 1
+has_asked: 0
+pos: 0, 0
+Neuron: 
+neuron_id: 98
+type: 2
+overwrited_connection_id: 302
+numer_of_time_connection_overwrited: 0
+in_connections_id: 1612 330 1257 1505 
+out_connections_id: 331 1487 1906 1655 
+value: 0.330468
+bias: -0.259739
+has_value: 1
+has_asked: 0
+pos: 0, 0
+Neuron: 
+neuron_id: 107
+type: 2
+overwrited_connection_id: 294
+numer_of_time_connection_overwrited: 0
+in_connections_id: 406 2116 1100 
+out_connections_id: 407 668 
+value: 0.528132
+bias: -0.0096112
+has_value: 1
+has_asked: 0
+pos: 0, 0
+Neuron: 
+neuron_id: 49
+type: 2
+overwrited_connection_id: 12
+numer_of_time_connection_overwrited: 0
+in_connections_id: 668 126 
+out_connections_id: 513 127 1431 541 1365 
+value: 0.558426
+bias: 0.0743935
+has_value: 1
+has_asked: 0
+pos: 0, 0
+Neuron: 
+neuron_id: 223
+type: 2
+overwrited_connection_id: 1365
+numer_of_time_connection_overwrited: 0
+in_connections_id: 1431 
+out_connections_id: 1432 
+value: 0.628231
+bias: 0
+has_value: 1
+has_asked: 0
+pos: 0, 0
+Neuron: 
+neuron_id: 1
+type: 0
+overwrited_connection_id: -1
+numer_of_time_connection_overwrited: -1
+in_connections_id: 
+out_connections_id: 49 33 17 1 
+value: 7
+bias: 0.348929
+has_value: 1
+has_asked: 0
+pos: 0, 0
+Neuron: 
+neuron_id: 60
+type: 2
+overwrited_connection_id: 5
+numer_of_time_connection_overwrited: 0
+in_connections_id: 149 1636 
+out_connections_id: 150 1872 
+value: 0.323597
+bias: 0.0224099
+has_value: 1
+has_asked: 0
+pos: 0, 0
+Neuron: 
+neuron_id: 6
+type: 0
+overwrited_connection_id: -1
+numer_of_time_connection_overwrited: -1
+in_connections_id: 
+out_connections_id: 22 6 38 54 
+value: 3
+bias: -0.0580237
+has_value: 1
+has_asked: 0
+pos: 0, 0
+Neuron: 
+neuron_id: 3
+type: 0
+overwrited_connection_id: -1
+numer_of_time_connection_overwrited: -1
+in_connections_id: 
+out_connections_id: 444 35 51 2280 527 19 3 
+value: 1
+bias: -0.149798
+has_value: 1
+has_asked: 0
+pos: 0, 0
+Neuron: 
+neuron_id: 19
+type: 1
+overwrited_connection_id: -1
+numer_of_time_connection_overwrited: -1
+in_connections_id: 63 314 57 53 49 59 51 50 60 48 52 54 58 56 61 62 55 261 
+out_connections_id: 
+value: 4.15996e-05
+bias: -0.206675
+has_value: 1
+has_asked: 0
+pos: 0, 0
+Neuron: 
+neuron_id: 302
+type: 2
+overwrited_connection_id: 1611
+numer_of_time_connection_overwrited: 0
+in_connections_id: 2280 1978 
+out_connections_id: 1979 
+value: 0.227929
+bias: -0.0609574
+has_value: 1
+has_asked: 0
+pos: 0, 0
+Neuron: 
+neuron_id: 66
+type: 2
+overwrited_connection_id: 36
+numer_of_time_connection_overwrited: 0
+in_connections_id: 331 294 513 162 407 302 301 1366 
+out_connections_id: 163 871 309 
+value: 0.399819
+bias: 0.384724
+has_value: 1
+has_asked: 0
+pos: 0, 0
+Neuron: 
+neuron_id: 7
+type: 0
+overwrited_connection_id: -1
+numer_of_time_connection_overwrited: -1
+in_connections_id: 
+out_connections_id: 39 23 447 7 55 
+value: 6
+bias: 0.181897
+has_value: 1
+has_asked: 0
+pos: 0, 0
+Neuron: 
+neuron_id: 318
+type: 2
+overwrited_connection_id: 1100
+numer_of_time_connection_overwrited: 0
+in_connections_id: 2247 2115 
+out_connections_id: 2419 2428 2116 2275 
+value: 0.763333
+bias: 0.00783754
+has_value: 1
+has_asked: 0
+pos: 0, 0
+Neuron: 
+neuron_id: 181
+type: 2
+overwrited_connection_id: 805
+numer_of_time_connection_overwrited: 0
+in_connections_id: 1516 1702 1083 
+out_connections_id: 1218 1084 
+value: 0.630267
+bias: 0.0916173
+has_value: 1
+has_asked: 0
+pos: 0, 0
+Neuron: 
+neuron_id: 4
+type: 0
+overwrited_connection_id: -1
+numer_of_time_connection_overwrited: -1
+in_connections_id: 
+out_connections_id: 162 36 52 20 4 
+value: 2
+bias: -0.325749
+has_value: 1
+has_asked: 0
+pos: 0, 0
+Connection: 
+connection_id: 40
+in_neuron_id: 8
+out_neuron_id: 18
+weight: 1.21876
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 4
+in_neuron_id: 4
+out_neuron_id: 16
+weight: -0.88953
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 261
+in_neuron_id: 87
+out_neuron_id: 19
+weight: -0.00147437
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 1655
+in_neuron_id: 98
+out_neuron_id: 215
+weight: -0.660309
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 1906
+in_neuron_id: 98
+out_neuron_id: 287
+weight: 0.509342
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 1
+in_neuron_id: 1
+out_neuron_id: 16
+weight: -1.92426
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 21
+in_neuron_id: 5
+out_neuron_id: 17
+weight: 1.77518
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 1100
+in_neuron_id: 11
+out_neuron_id: 107
+weight: 0.42349
+enabled: 0
+recurrent: 0
+numer_of_time_overwrited: 1
+Connection: 
+connection_id: 2116
+in_neuron_id: 318
+out_neuron_id: 107
+weight: 0.160162
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 60
+in_neuron_id: 12
+out_neuron_id: 19
+weight: -0.978624
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 50
+in_neuron_id: 2
+out_neuron_id: 19
+weight: 2.40919
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 1
+Connection: 
+connection_id: 1702
+in_neuron_id: 246
+out_neuron_id: 181
+weight: 0.212508
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 51
+in_neuron_id: 3
+out_neuron_id: 19
+weight: 1.06399
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 464
+in_neuron_id: 8
+out_neuron_id: 87
+weight: 1.20757
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 15
+in_neuron_id: 15
+out_neuron_id: 16
+weight: 0.847661
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 2428
+in_neuron_id: 318
+out_neuron_id: 362
+weight: 1.22508
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 49
+in_neuron_id: 1
+out_neuron_id: 19
+weight: 0.859055
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 2
+Connection: 
+connection_id: 440
+in_neuron_id: 13
+out_neuron_id: 87
+weight: 0.879372
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 2115
+in_neuron_id: 11
+out_neuron_id: 318
+weight: 0.238398
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 59
+in_neuron_id: 11
+out_neuron_id: 19
+weight: 0.0254182
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 26
+in_neuron_id: 10
+out_neuron_id: 17
+weight: -1.23894
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 53
+in_neuron_id: 5
+out_neuron_id: 19
+weight: 0.995268
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 407
+in_neuron_id: 107
+out_neuron_id: 66
+weight: 0.468208
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 150
+in_neuron_id: 60
+out_neuron_id: 16
+weight: -0.613043
+enabled: 0
+recurrent: 0
+numer_of_time_overwrited: 2
+Connection: 
+connection_id: 23
+in_neuron_id: 7
+out_neuron_id: 17
+weight: -1.43692
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 314
+in_neuron_id: 95
+out_neuron_id: 19
+weight: 0.73186
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 57
+in_neuron_id: 9
+out_neuron_id: 19
+weight: -1.89595
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 1
+Connection: 
+connection_id: 28
+in_neuron_id: 12
+out_neuron_id: 17
+weight: -0.202309
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 2
+Connection: 
+connection_id: 12
+in_neuron_id: 12
+out_neuron_id: 16
+weight: 0.263163
+enabled: 0
+recurrent: 0
+numer_of_time_overwrited: 1
+Connection: 
+connection_id: 1487
+in_neuron_id: 98
+out_neuron_id: 111
+weight: -0.901029
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 459
+in_neuron_id: 12
+out_neuron_id: 111
+weight: -0.245711
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 24
+in_neuron_id: 8
+out_neuron_id: 17
+weight: 0.121511
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 127
+in_neuron_id: 49
+out_neuron_id: 16
+weight: -0.741722
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 1
+Connection: 
+connection_id: 0
+in_neuron_id: 0
+out_neuron_id: 16
+weight: -0.967773
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 2
+Connection: 
+connection_id: 9
+in_neuron_id: 9
+out_neuron_id: 16
+weight: -0.318118
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 1660
+in_neuron_id: 215
+out_neuron_id: 17
+weight: -0.528511
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 25
+in_neuron_id: 9
+out_neuron_id: 17
+weight: -0.185252
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 29
+in_neuron_id: 13
+out_neuron_id: 17
+weight: 0.8241
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 1
+Connection: 
+connection_id: 444
+in_neuron_id: 3
+out_neuron_id: 87
+weight: 1.33533
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 1
+Connection: 
+connection_id: 63
+in_neuron_id: 15
+out_neuron_id: 19
+weight: 0.709116
+enabled: 0
+recurrent: 0
+numer_of_time_overwrited: 1
+Connection: 
+connection_id: 406
+in_neuron_id: 14
+out_neuron_id: 107
+weight: -0.0659266
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 149
+in_neuron_id: 5
+out_neuron_id: 60
+weight: -1.04613
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 22
+in_neuron_id: 6
+out_neuron_id: 17
+weight: 1.13436
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 981
+in_neuron_id: 160
+out_neuron_id: 16
+weight: 0.658716
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 294
+in_neuron_id: 14
+out_neuron_id: 66
+weight: -0.993054
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 1
+Connection: 
+connection_id: 37
+in_neuron_id: 5
+out_neuron_id: 18
+weight: -0.330781
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 2429
+in_neuron_id: 362
+out_neuron_id: 18
+weight: 1.02722
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 16
+in_neuron_id: 0
+out_neuron_id: 17
+weight: -0.00247467
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 1612
+in_neuron_id: 246
+out_neuron_id: 98
+weight: -1.53365
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 2247
+in_neuron_id: 12
+out_neuron_id: 318
+weight: 0.686407
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 1365
+in_neuron_id: 49
+out_neuron_id: 215
+weight: -0.178551
+enabled: 0
+recurrent: 0
+numer_of_time_overwrited: 1
+Connection: 
+connection_id: 162
+in_neuron_id: 4
+out_neuron_id: 66
+weight: -1.45537
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 1
+Connection: 
+connection_id: 1432
+in_neuron_id: 223
+out_neuron_id: 215
+weight: -0.143931
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 35
+in_neuron_id: 3
+out_neuron_id: 18
+weight: -2.26252
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 845
+in_neuron_id: 160
+out_neuron_id: 87
+weight: -0.0783643
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 1873
+in_neuron_id: 287
+out_neuron_id: 16
+weight: 0.377921
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 331
+in_neuron_id: 98
+out_neuron_id: 66
+weight: 0.0358306
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 2419
+in_neuron_id: 318
+out_neuron_id: 18
+weight: 0.517094
+enabled: 0
+recurrent: 0
+numer_of_time_overwrited: 1
+Connection: 
+connection_id: 6
+in_neuron_id: 6
+out_neuron_id: 16
+weight: 0.556452
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 1
+Connection: 
+connection_id: 1516
+in_neuron_id: 87
+out_neuron_id: 181
+weight: 0.371978
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 513
+in_neuron_id: 49
+out_neuron_id: 66
+weight: 0.549401
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 1
+Connection: 
+connection_id: 5
+in_neuron_id: 5
+out_neuron_id: 16
+weight: 0.028223
+enabled: 0
+recurrent: 0
+numer_of_time_overwrited: 1
+Connection: 
+connection_id: 39
+in_neuron_id: 7
+out_neuron_id: 18
+weight: -2.57334
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 1872
+in_neuron_id: 60
+out_neuron_id: 287
+weight: 1.14149
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 844
+in_neuron_id: 123
+out_neuron_id: 160
+weight: 1.38815
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 330
+in_neuron_id: 8
+out_neuron_id: 98
+weight: -0.0536944
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 30
+in_neuron_id: 14
+out_neuron_id: 17
+weight: -3.83384
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 43
+in_neuron_id: 11
+out_neuron_id: 18
+weight: -0.278164
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 2280
+in_neuron_id: 3
+out_neuron_id: 302
+weight: -0.465294
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 38
+in_neuron_id: 6
+out_neuron_id: 18
+weight: 0.340238
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 805
+in_neuron_id: 123
+out_neuron_id: 16
+weight: -0.437922
+enabled: 0
+recurrent: 0
+numer_of_time_overwrited: 1
+Connection: 
+connection_id: 34
+in_neuron_id: 2
+out_neuron_id: 18
+weight: -0.88637
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 1
+Connection: 
+connection_id: 1431
+in_neuron_id: 49
+out_neuron_id: 223
+weight: 0.939488
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 1218
+in_neuron_id: 181
+out_neuron_id: 111
+weight: -0.736354
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 447
+in_neuron_id: 7
+out_neuron_id: 87
+weight: 1.14601
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 66
+in_neuron_id: 14
+out_neuron_id: 21
+weight: -0.0407534
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 48
+in_neuron_id: 0
+out_neuron_id: 19
+weight: 1.36555
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 1
+Connection: 
+connection_id: 36
+in_neuron_id: 4
+out_neuron_id: 18
+weight: -2.17541
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 1
+Connection: 
+connection_id: 163
+in_neuron_id: 66
+out_neuron_id: 18
+weight: 0.459188
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 871
+in_neuron_id: 66
+out_neuron_id: 123
+weight: 0.179541
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 302
+in_neuron_id: 8
+out_neuron_id: 66
+weight: 0.144637
+enabled: 0
+recurrent: 0
+numer_of_time_overwrited: 1
+Connection: 
+connection_id: 45
+in_neuron_id: 13
+out_neuron_id: 18
+weight: 2.31279
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 13
+in_neuron_id: 13
+out_neuron_id: 16
+weight: 0.47726
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 1
+Connection: 
+connection_id: 527
+in_neuron_id: 3
+out_neuron_id: 123
+weight: -0.883215
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 19
+in_neuron_id: 3
+out_neuron_id: 17
+weight: 0.768608
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 668
+in_neuron_id: 107
+out_neuron_id: 49
+weight: -0.641509
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 33
+in_neuron_id: 1
+out_neuron_id: 18
+weight: 0.746033
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 541
+in_neuron_id: 49
+out_neuron_id: 18
+weight: -0.254922
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 27
+in_neuron_id: 11
+out_neuron_id: 17
+weight: -4.64878
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 2275
+in_neuron_id: 318
+out_neuron_id: 87
+weight: 1.05238
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 32
+in_neuron_id: 0
+out_neuron_id: 18
+weight: -0.182246
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 1
+Connection: 
+connection_id: 1979
+in_neuron_id: 302
+out_neuron_id: 246
+weight: 0.971069
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 52
+in_neuron_id: 4
+out_neuron_id: 19
+weight: -1.55795
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 2
+Connection: 
+connection_id: 309
+in_neuron_id: 66
+out_neuron_id: 16
+weight: -1.07635
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 1083
+in_neuron_id: 123
+out_neuron_id: 181
+weight: -0.0942193
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 55
+in_neuron_id: 7
+out_neuron_id: 19
+weight: -0.147286
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 54
+in_neuron_id: 6
+out_neuron_id: 19
+weight: -0.466497
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 2264
+in_neuron_id: 21
+out_neuron_id: 335
+weight: 1.037
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 2027
+in_neuron_id: 111
+out_neuron_id: 95
+weight: -0.338959
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 42
+in_neuron_id: 10
+out_neuron_id: 18
+weight: 0.1122
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 11
+in_neuron_id: 11
+out_neuron_id: 16
+weight: 0.431612
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 301
+in_neuron_id: 11
+out_neuron_id: 66
+weight: 0.486581
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 44
+in_neuron_id: 12
+out_neuron_id: 18
+weight: -0.246008
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 18
+in_neuron_id: 2
+out_neuron_id: 17
+weight: 1.156
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 1611
+in_neuron_id: 2
+out_neuron_id: 246
+weight: 0.241968
+enabled: 0
+recurrent: 0
+numer_of_time_overwrited: 1
+Connection: 
+connection_id: 1257
+in_neuron_id: 12
+out_neuron_id: 98
+weight: 0.374537
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 31
+in_neuron_id: 15
+out_neuron_id: 17
+weight: -2.61212
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 1978
+in_neuron_id: 2
+out_neuron_id: 302
+weight: -0.346895
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 1
+Connection: 
+connection_id: 460
+in_neuron_id: 111
+out_neuron_id: 17
+weight: 0.700211
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 8
+in_neuron_id: 8
+out_neuron_id: 16
+weight: 0.695539
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 1636
+in_neuron_id: 87
+out_neuron_id: 60
+weight: 0.286434
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 7
+in_neuron_id: 7
+out_neuron_id: 16
+weight: 1.77507
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 2265
+in_neuron_id: 335
+out_neuron_id: 18
+weight: 0.482749
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 17
+in_neuron_id: 1
+out_neuron_id: 17
+weight: 0.0114989
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 58
+in_neuron_id: 10
+out_neuron_id: 19
+weight: -1.09574
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 41
+in_neuron_id: 9
+out_neuron_id: 18
+weight: -0.000212528
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 47
+in_neuron_id: 15
+out_neuron_id: 18
+weight: 0.989126
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 1
+Connection: 
+connection_id: 818
+in_neuron_id: 0
+out_neuron_id: 123
+weight: 0.240601
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 313
+in_neuron_id: 14
+out_neuron_id: 95
+weight: 0.802205
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 56
+in_neuron_id: 8
+out_neuron_id: 19
+weight: -2.34865
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 1084
+in_neuron_id: 181
+out_neuron_id: 16
+weight: -1.22307
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 1366
+in_neuron_id: 215
+out_neuron_id: 66
+weight: 1.04306
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 1505
+in_neuron_id: 2
+out_neuron_id: 98
+weight: 0.28638
+enabled: 0
+recurrent: 0
+numer_of_time_overwrited: 1
+Connection: 
+connection_id: 10
+in_neuron_id: 10
+out_neuron_id: 16
+weight: 0.343727
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 126
+in_neuron_id: 12
+out_neuron_id: 49
+weight: 0.499185
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 46
+in_neuron_id: 14
+out_neuron_id: 18
+weight: 0.447839
+enabled: 0
+recurrent: 0
+numer_of_time_overwrited: 1
+Connection: 
+connection_id: 20
+in_neuron_id: 4
+out_neuron_id: 17
+weight: 0.0736918
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 528
+in_neuron_id: 123
+out_neuron_id: 87
+weight: 0.254531
+enabled: 0
+recurrent: 0
+numer_of_time_overwrited: 1
+Connection: 
+connection_id: 14
+in_neuron_id: 14
+out_neuron_id: 16
+weight: -0.116612
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 1
+Connection: 
+connection_id: 2
+in_neuron_id: 2
+out_neuron_id: 16
+weight: -0.34993
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 1
+Connection: 
+connection_id: 61
+in_neuron_id: 13
+out_neuron_id: 19
+weight: -1.04984
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 260
+in_neuron_id: 15
+out_neuron_id: 87
+weight: -1.57792
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 3
+in_neuron_id: 3
+out_neuron_id: 16
+weight: -0.107631
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 62
+in_neuron_id: 14
+out_neuron_id: 19
+weight: -0.741749
+enabled: 0
+recurrent: 0
+numer_of_time_overwrited: 3
+Connection: 
+connection_id: 67
+in_neuron_id: 21
+out_neuron_id: 18
+weight: 1.09537
+enabled: 0
+recurrent: 0
+numer_of_time_overwrited: 1
+m_userOffsets: 
+335: 0, 0
+21: 0, 0
+2: 0, 0
+11: 0, 0
+95: 0, 0
+111: 0, 0
+13: 0, 0
+18: 0, 0
+123: 0, 0
+5: 0, 0
+16: 0, 0
+9: 0, 0
+87: 0, 0
+0: 0, 0
+17: 0, 0
+160: 0, 0
+15: 0, 0
+14: 0, 0
+10: 0, 0
+246: 0, 0
+8: 0, 0
+362: 0, 0
+287: 0, 0
+215: 0, 0
+12: 0, 0
+98: 0, 0
+107: 0, 0
+49: 0, 0
+223: 0, 0
+1: 0, 0
+60: 0, 0
+6: 0, 0
+3: 0, 0
+19: 0, 0
+302: 0, 0
+66: 0, 0
+7: 0, 0
+318: 0, 0
+181: 0, 0
+4: 0, 0

@@ -1,0 +1,99 @@
+m_nbInput: 2
+m_nbOutput: 1
+m_neurons_size: 4
+m_connections_size: 5
+input id: 0 1 
+output id: 2 
+Neuron: 
+neuron_id: 0
+type: 0
+overwrited_connection_id: -1
+numer_of_time_connection_overwrited: -1
+in_connections_id: 
+out_connections_id: 0 2 
+value: 1
+bias: -0.0179741
+has_value: 1
+has_asked: 0
+pos: 0, 0
+Neuron: 
+neuron_id: 2
+type: 1
+overwrited_connection_id: -1
+numer_of_time_connection_overwrited: -1
+in_connections_id: 0 1 3 
+out_connections_id: 
+value: 0.488735
+bias: 0.0770521
+has_value: 1
+has_asked: 0
+pos: 0, 0
+Neuron: 
+neuron_id: 1
+type: 0
+overwrited_connection_id: -1
+numer_of_time_connection_overwrited: -1
+in_connections_id: 
+out_connections_id: 1 10 
+value: 1
+bias: 0.0451303
+has_value: 1
+has_asked: 0
+pos: 0, 0
+Neuron: 
+neuron_id: 3
+type: 2
+overwrited_connection_id: 0
+numer_of_time_connection_overwrited: 0
+in_connections_id: 2 10 
+out_connections_id: 3 
+value: 0.927928
+bias: 0
+has_value: 1
+has_asked: 0
+pos: 0, 0
+Connection: 
+connection_id: 0
+in_neuron_id: 0
+out_neuron_id: 2
+weight: 0.130727
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 1
+Connection: 
+connection_id: 1
+in_neuron_id: 1
+out_neuron_id: 2
+weight: -0.034206
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 10
+in_neuron_id: 1
+out_neuron_id: 3
+weight: -0.388051
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 2
+in_neuron_id: 0
+out_neuron_id: 3
+weight: 1.02687
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 3
+in_neuron_id: 3
+out_neuron_id: 2
+weight: -0.199197
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+m_userOffsets: 
+0: 0, 0
+2: 0, 0
+1: 0, 0
+3: 0, 0

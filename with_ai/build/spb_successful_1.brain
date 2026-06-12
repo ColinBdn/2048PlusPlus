@@ -1,0 +1,239 @@
+m_nbInput: 4
+m_nbOutput: 1
+m_neurons_size: 8
+m_connections_size: 16
+input id: 0 1 2 3 
+output id: 4 
+Neuron: 
+neuron_id: 0
+type: 0
+overwrited_connection_id: -1
+numer_of_time_connection_overwrited: -1
+in_connections_id: 
+out_connections_id: 0 66 12 
+value: -3.18
+bias: -0.00290362
+has_value: 1
+has_asked: 0
+pos: 0, 0
+Neuron: 
+neuron_id: 4
+type: 1
+overwrited_connection_id: -1
+numer_of_time_connection_overwrited: -1
+in_connections_id: 0 1 9 73 2 3 
+out_connections_id: 
+value: 0.30012
+bias: -0.00213103
+has_value: 1
+has_asked: 0
+pos: 0, 0
+Neuron: 
+neuron_id: 1
+type: 0
+overwrited_connection_id: -1
+numer_of_time_connection_overwrited: -1
+in_connections_id: 
+out_connections_id: 8 1 
+value: -2
+bias: 0.0064985
+has_value: 1
+has_asked: 0
+pos: 0, 0
+Neuron: 
+neuron_id: 33
+type: 2
+overwrited_connection_id: 67
+numer_of_time_connection_overwrited: 1
+in_connections_id: 107 
+out_connections_id: 108 
+value: 0.340486
+bias: 0.00386179
+has_value: 1
+has_asked: 0
+pos: 0, 0
+Neuron: 
+neuron_id: 7
+type: 2
+overwrited_connection_id: 1
+numer_of_time_connection_overwrited: 0
+in_connections_id: 8 10 67 12 11 108 
+out_connections_id: 9 
+value: 4.20871e-10
+bias: 0.00221276
+has_value: 1
+has_asked: 0
+pos: 0, 0
+Neuron: 
+neuron_id: 23
+type: 2
+overwrited_connection_id: 12
+numer_of_time_connection_overwrited: 0
+in_connections_id: 74 66 71 
+out_connections_id: 73 67 107 
+value: 1
+bias: -0.0076185
+has_value: 1
+has_asked: 0
+pos: 0, 0
+Neuron: 
+neuron_id: 2
+type: 0
+overwrited_connection_id: -1
+numer_of_time_connection_overwrited: -1
+in_connections_id: 
+out_connections_id: 10 74 2 
+value: 6.27086
+bias: -0.00827554
+has_value: 1
+has_asked: 0
+pos: 0, 0
+Neuron: 
+neuron_id: 3
+type: 0
+overwrited_connection_id: -1
+numer_of_time_connection_overwrited: -1
+in_connections_id: 
+out_connections_id: 3 11 71 
+value: 0.646992
+bias: 0.00476851
+has_value: 1
+has_asked: 0
+pos: 0, 0
+Connection: 
+connection_id: 8
+in_neuron_id: 1
+out_neuron_id: 7
+weight: 0.945547
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 0
+in_neuron_id: 0
+out_neuron_id: 4
+weight: 0.0781205
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 73
+in_neuron_id: 23
+out_neuron_id: 4
+weight: 7.37308
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 9
+in_neuron_id: 7
+out_neuron_id: 4
+weight: -6.68302
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 1
+in_neuron_id: 1
+out_neuron_id: 4
+weight: -0.817339
+enabled: 0
+recurrent: 0
+numer_of_time_overwrited: 1
+Connection: 
+connection_id: 66
+in_neuron_id: 0
+out_neuron_id: 23
+weight: -6.57561
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 1
+Connection: 
+connection_id: 2
+in_neuron_id: 2
+out_neuron_id: 4
+weight: -1.40347
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 74
+in_neuron_id: 2
+out_neuron_id: 23
+weight: 3.14113
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 10
+in_neuron_id: 2
+out_neuron_id: 7
+weight: -3.75138
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 1
+Connection: 
+connection_id: 67
+in_neuron_id: 23
+out_neuron_id: 7
+weight: -0.070933
+enabled: 0
+recurrent: 0
+numer_of_time_overwrited: 2
+Connection: 
+connection_id: 3
+in_neuron_id: 3
+out_neuron_id: 4
+weight: 1.28555
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 12
+in_neuron_id: 0
+out_neuron_id: 7
+weight: 2.72767
+enabled: 0
+recurrent: 0
+numer_of_time_overwrited: 1
+Connection: 
+connection_id: 11
+in_neuron_id: 3
+out_neuron_id: 7
+weight: 5.86503
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 71
+in_neuron_id: 3
+out_neuron_id: 23
+weight: 3.66432
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 107
+in_neuron_id: 23
+out_neuron_id: 33
+weight: -0.66499
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 108
+in_neuron_id: 33
+out_neuron_id: 7
+weight: 0.0880389
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+m_userOffsets: 
+0: 0, 0
+4: 0, 0
+1: 0, 0
+33: 0, 0
+7: 0, 0
+23: 0, 0
+2: 0, 0
+3: 0, 0

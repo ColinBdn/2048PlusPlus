@@ -1,0 +1,289 @@
+m_nbInput: 4
+m_nbOutput: 1
+m_neurons_size: 10
+m_connections_size: 19
+input id: 0 1 2 3 
+output id: 4 
+Neuron: 
+neuron_id: 8
+type: 2
+overwrited_connection_id: 1
+numer_of_time_connection_overwrited: 0
+in_connections_id: 18 10 48 20 61 23 
+out_connections_id: 11 15 11 
+value: 0.999811
+bias: 0.00978601
+has_value: 1
+has_asked: 0
+pos: 0, 0
+Neuron: 
+neuron_id: 0
+type: 0
+overwrited_connection_id: -1
+numer_of_time_connection_overwrited: -1
+in_connections_id: 
+out_connections_id: 0 20 60 
+value: -6.04
+bias: 0.0288969
+has_value: 1
+has_asked: 0
+pos: 0, 0
+Neuron: 
+neuron_id: 4
+type: 1
+overwrited_connection_id: -1
+numer_of_time_connection_overwrited: -1
+in_connections_id: 0 1 2 67 3 11 16 11 
+out_connections_id: 
+value: 0.715634
+bias: 0.0192474
+has_value: 1
+has_asked: 0
+pos: 0, 0
+Neuron: 
+neuron_id: 9
+type: 2
+overwrited_connection_id: 11
+numer_of_time_connection_overwrited: 0
+in_connections_id: 131 15 
+out_connections_id: 16 
+value: 0.0984825
+bias: 0.0166125
+has_value: 1
+has_asked: 0
+pos: 0, 0
+Neuron: 
+neuron_id: 17
+type: 2
+overwrited_connection_id: 18
+numer_of_time_connection_overwrited: 1
+in_connections_id: 66 47 
+out_connections_id: 67 131 48 
+value: 0.937009
+bias: -0.00913942
+has_value: 1
+has_asked: 0
+pos: 0, 0
+Neuron: 
+neuron_id: 1
+type: 0
+overwrited_connection_id: -1
+numer_of_time_connection_overwrited: -1
+in_connections_id: 
+out_connections_id: 1 66 10 22 
+value: -16
+bias: 0.00158248
+has_value: 1
+has_asked: 0
+pos: 0, 0
+Neuron: 
+neuron_id: 3
+type: 0
+overwrited_connection_id: -1
+numer_of_time_connection_overwrited: -1
+in_connections_id: 
+out_connections_id: 18 3 47 
+value: 0.134767
+bias: -0.0173405
+has_value: 1
+has_asked: 0
+pos: 0, 0
+Neuron: 
+neuron_id: 2
+type: 0
+overwrited_connection_id: -1
+numer_of_time_connection_overwrited: -1
+in_connections_id: 
+out_connections_id: 2 
+value: 6.07886
+bias: -0.01013
+has_value: 1
+has_asked: 0
+pos: 0, 0
+Neuron: 
+neuron_id: 21
+type: 2
+overwrited_connection_id: 20
+numer_of_time_connection_overwrited: 0
+in_connections_id: 60 
+out_connections_id: 61 
+value: 0.896618
+bias: 0.00875163
+has_value: 1
+has_asked: 0
+pos: 0, 0
+Neuron: 
+neuron_id: 10
+type: 2
+overwrited_connection_id: 10
+numer_of_time_connection_overwrited: 0
+in_connections_id: 22 
+out_connections_id: 23 
+value: 0.000227242
+bias: 0.00077987
+has_value: 1
+has_asked: 0
+pos: 0, 0
+Connection: 
+connection_id: 0
+in_neuron_id: 0
+out_neuron_id: 4
+weight: -1.65259
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 1
+in_neuron_id: 1
+out_neuron_id: 4
+weight: -0.372224
+enabled: 0
+recurrent: 0
+numer_of_time_overwrited: 1
+Connection: 
+connection_id: 10
+in_neuron_id: 1
+out_neuron_id: 8
+weight: 7.01726
+enabled: 0
+recurrent: 0
+numer_of_time_overwrited: 1
+Connection: 
+connection_id: 2
+in_neuron_id: 2
+out_neuron_id: 4
+weight: -4.57218
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 66
+in_neuron_id: 1
+out_neuron_id: 17
+weight: -0.169303
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 2
+Connection: 
+connection_id: 18
+in_neuron_id: 3
+out_neuron_id: 8
+weight: -6.8478
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 2
+Connection: 
+connection_id: 131
+in_neuron_id: 17
+out_neuron_id: 9
+weight: -0.528558
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 67
+in_neuron_id: 17
+out_neuron_id: 4
+weight: 1.88681
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 1
+Connection: 
+connection_id: 3
+in_neuron_id: 3
+out_neuron_id: 4
+weight: 4.38599
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 11
+in_neuron_id: 8
+out_neuron_id: 4
+weight: 8
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 1
+Connection: 
+connection_id: 47
+in_neuron_id: 3
+out_neuron_id: 17
+weight: -0.808553
+enabled: 0
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 48
+in_neuron_id: 17
+out_neuron_id: 8
+weight: 3.97009
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 2
+Connection: 
+connection_id: 15
+in_neuron_id: 8
+out_neuron_id: 9
+weight: -1.73588
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 16
+in_neuron_id: 9
+out_neuron_id: 4
+weight: 3.65222
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 20
+in_neuron_id: 0
+out_neuron_id: 8
+weight: -1.10101
+enabled: 0
+recurrent: 0
+numer_of_time_overwrited: 1
+Connection: 
+connection_id: 60
+in_neuron_id: 0
+out_neuron_id: 21
+weight: -0.3562
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 61
+in_neuron_id: 21
+out_neuron_id: 8
+weight: 6.43174
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 22
+in_neuron_id: 1
+out_neuron_id: 10
+weight: 0.524378
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+Connection: 
+connection_id: 23
+in_neuron_id: 10
+out_neuron_id: 8
+weight: 6.54643
+enabled: 1
+recurrent: 0
+numer_of_time_overwrited: 0
+m_userOffsets: 
+8: 0, 0
+0: 0, 0
+4: 0, 0
+9: 0, 0
+17: 0, 0
+1: 0, 0
+3: 0, 0
+2: 0, 0
+21: 0, 0
+10: 0, 0
